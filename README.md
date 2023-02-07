@@ -1,4 +1,5 @@
-### Olá👋, Me chamo Gabriel.
+## Olá👋, Me chamo Gabriel.
+### Minhas estatísticas
 
  <div>
   <a href="https://github.com/WillamiFerreira">
