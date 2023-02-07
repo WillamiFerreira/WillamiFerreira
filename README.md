@@ -1,5 +1,5 @@
 ## Olá👋, Me chamo Gabriel.
-### Minhas estatísticas
+### Minhas estatísticas 📊
 
  <div>
   <a href="https://github.com/WillamiFerreira">
