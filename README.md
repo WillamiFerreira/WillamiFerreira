@@ -1,4 +1,4 @@
-## Olá👋, Me chamo Gabriel e sou um desenvolvedor Front-end.
+## Olá👋, Me chamo Gabriel.
 ### Minhas estatísticas 📊
 
  <div>
