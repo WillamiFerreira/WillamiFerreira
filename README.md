@@ -1,4 +1,4 @@
-## Olá👋, Me chamo Gabriel.
+## Hello, Everyone👋, call me Gabriel.
 ### My stats 📊
 
  <div>
