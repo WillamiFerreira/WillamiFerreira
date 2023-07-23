@@ -3,9 +3,9 @@
 
  <div>
   <a href="https://github.com/WillamiFerreira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=willamiferreira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willamiferreira&layout=compact&langs_count=16&theme=transparent"/>
-  <img width="200px" height="200px" src="https://github.com/WillamiFerreira/WillamiFerreira/assets/98838062/7360d462-019a-4bca-b5bd-5e2588d3f75f"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=willamiferreira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willamiferreira&layout=compact&langs_count=16&theme=transparent"/>
+  <img width="190px" height="190px" src="https://github.com/WillamiFerreira/WillamiFerreira/assets/98838062/7360d462-019a-4bca-b5bd-5e2588d3f75f"/>
 
 </div>
  
